@@ -17,5 +17,6 @@ minu_uus_auto.odomeeter()
 
 tesla = Elektriauto("Tesla", "mudel s", 2019)
 print(tesla.kirjeldus())
+tesla.aku_kirjeldus()
 tesla.odomeeter()
 tesla.suurenda_odomeeter(50)
