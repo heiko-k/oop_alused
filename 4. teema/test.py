@@ -1,10 +1,10 @@
-from Inimene from Inimene
+from Sodur from  Sodur
 
-inimene1 = Iniemene()
-inimene1.info()
+sodur1 = Sodur(1)
+sodur1.info()
 
-inimene2 = Iniemene()
-inimene2.info()
+sodur2 = Sodur(1)
+sodur2.info()
 
-inimene3 = Iniemene()
-inimene3.info()
+sodur3 = Sodur(2)
+sodur3.info()
