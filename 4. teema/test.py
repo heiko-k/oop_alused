@@ -1,10 +1,19 @@
 from Sodur from  Sodur
+from random import randint
 
-sodur1 = Sodur(1)
-sodur1.info()
+armee_1 = []
+armee_2 = []
 
-sodur2 = Sodur(1)
-sodur2.info()
+for kord in range(1, 21, 1)
+    armee_nr = randint(1, 2)
+    if(armee_nr == 1)
+        sodur = Sodur(armee_nr)
+        armee_1.append(sodur)
 
-sodur3 = Sodur(2)
-sodur3.info()
+print("Armee 1")
+for sodur in armee_1:
+    sodur.info()
+
+print("Armee 2")
+for sodur in armee_2
+    sodur.info()
